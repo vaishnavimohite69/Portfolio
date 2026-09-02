@@ -1,14 +1,8 @@
-# [srisomanaath](https://srisomanaath)
+# Vaishnavi Mohite
 
-A minimal portfolio, component registry to showcase my work.
+My personal portfolio and component registry to showcase my work.
 
-Check out the live site: [srisomanaath](https://srisomanaath?ref=github)
-
-## GitAds Sponsored
-
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=srisomanaath/srisomanaath@github)](https://gitads.dev/v1/ad-track?source=srisomanaath/srisomanaath@github)
-
-<!-- GitAds-Verify: DIY18X7KPF4S8175ESJPKIUYLPAEUGXI -->
+Check out the live site: [Vaishnavi Mohite](https://vaishnavimohite.vercel.app)
 
 ## Overview
 
@@ -54,8 +48,6 @@ Please refer to the [Development Guide](./DEVELOPMENT.md) for more details.
 ## License
 
 Licensed under the [MIT license](./LICENSE).
-
-You're free to use my code! Just make sure to <ins>remove all my personal information</ins> before publishing your website. It's awesome to see my code being useful to someone!
 
 ## Acknowledgments
 
